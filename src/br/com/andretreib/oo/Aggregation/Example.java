@@ -1,4 +1,4 @@
-package br.com.andretreib.oo.Association;
+package br.com.andretreib.oo.Aggregation;
 
 public class Example {
     public static void main(String[] args) {

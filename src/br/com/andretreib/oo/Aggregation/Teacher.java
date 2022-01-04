@@ -1,4 +1,4 @@
-package br.com.andretreib.oo.Association;
+package br.com.andretreib.oo.Aggregation;
 
 /**
  * Our class Teacher exists by itself
