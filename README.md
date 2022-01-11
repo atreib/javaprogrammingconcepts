@@ -1,5 +1,10 @@
 # Studying programming concepts with Java
 
+## Also available on:
+
+- [Node.js](https://github.com/atreib/nodejsprogrammingconcepts)
+- [C#](https://github.com/atreib/csharpprogrammingconcepts)
+
 ## Topics
 
 ### Object-oriented programming
